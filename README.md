@@ -2,7 +2,7 @@
 Simple Random Password Generator
 
 
-Demo : https://password-generator-ebon-seven.vercel.app/
+Demo : https://alirezarezazadeh.github.io/Password-Generator/
 
 
 
