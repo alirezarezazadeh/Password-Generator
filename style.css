@@ -59,6 +59,7 @@ input {
 
 .container {
     background-color: rgba(255, 255, 255, 0.664);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.479);
     margin-right: auto;
     margin-left: auto;
     width: 40rem;
